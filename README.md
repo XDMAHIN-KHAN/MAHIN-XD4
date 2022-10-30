@@ -5,4 +5,4 @@ THIS TOOLS ARE PAID
 
 ☑️ cd MAHIN-XD4
 
-☑️ python M4HIN-XD4
+☑️ python XD-M4HIN.py
